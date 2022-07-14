@@ -1,0 +1,11 @@
+*optimice todas las imagenes.
+*agregue el encabezado correspondiente a cada pagina con la etiqueta H1.
+*Reemplace el lorem de "quienes somos" por un texto producido personalmente en H2 .
+*agregue meta description
+*agregue meta keyboard
+*Agregue titulos a las tarjetas en "h3" , y descripciones en "p"
+*verifique ortografia en el contenido de meta description,meta keyboard, y todo el contenido visible para el usuario.
+*agregue descripcion en el atributo "alt" de cada imagen
+
+
+
